@@ -2,6 +2,7 @@
 ### Introduction
 
 Hello fella! I'm an IT student currently finishing my course. I don't really focus on only one thing, as my profile will probably be full of distinct projects (most of them will probably be unfinished). Right now I'm working on a small mobile meteorology app for android, made with jetpack compose in collaboration with [Redux](https://github.com/ReduxFlakes) (he basically made the entire API service and view model. Thank you mate🙏).
+My UI Designs are a 50/50 for me, either half terrible or completely terrible.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fl1x1n)](https://github.com/Fl1x1n)
 
