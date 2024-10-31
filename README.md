@@ -4,10 +4,8 @@
 Hello fella! I'm an IT student currently finishing my course. I don't really focus on only one thing, as my profile will probably be full of distinct projects (most of them will probably be unfinished). Right now I'm working on a small mobile meteorology app for android, made with jetpack compose in collaboration with [Redux](https://github.com/ReduxFlakes) (he basically made the entire [API](https://open-meteo.com/) service and view model. Thank you mate🙏).
 My UI Designs are a 50/50, either half terrible or completely terrible.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fl1x1n)](https://github.com/Fl1x1n)
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fl1x1n&layout=compact&theme=gruvbox)
-
-(I know its disappointing, I'm sorry😭)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fl1x1n&show_icons=true&theme=ocean_dark)](https://github.com/Fl1x1n)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fl1x1n&layout=compact&theme=ocean_dark)
 
 ### In the works
 - Nuage, Meteorology App (might change the name for something else);
