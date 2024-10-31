@@ -5,6 +5,7 @@ Hello fella! I'm an IT student currently finishing my course. I don't really foc
 My UI Designs are a 50/50, either half terrible or completely terrible.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fl1x1n)](https://github.com/Fl1x1n)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fl1x1n&layout=compact&theme=gruvbox)
 
 (I know its disappointing, I'm sorry😭)
 
