@@ -19,7 +19,7 @@ I’m currently learning unity basics, alongside C#. I'm also a self-taught guit
 -  I’m looking for help with basically everything. Unfortunately, I probably won't be able to go to university, so I'll try to expand my knowledge via **✨The Internet✨**. You can also contact me if you see anything in my code you think that could've been done in a more optimized way (Even the java one, although I won't be using it on the future).
 
 ### Contact
-For now I'm not sure what socials I should use, so for now you can only use github to contact me. I'll be updating this section when possible.
+You can contact me via discord. The link is in my profile <3
 
 ### Other Things
 I'm reallly lazy so basically everything I do won't be finished or rushed towards the end. I'm actively trying to lose that habit tho :) 
