@@ -23,8 +23,8 @@ My UI Designs are a 50/50, either half terrible or completely terrible.
 You can check out my personal Instagram profile. Not really professional since this is more of a personal account (both github and the instagram). 
 
 ### Other Things
-I'm reallly lazy so basically everything I do won't be finished or rushed towards the end. I'm actively trying to lose that tho 
-On my freetime I like to listen to music. Can't really call myself an audiophile because that just sounds strange to me. I'm into rock and heavy metal classics.
+I'm reallly lazy so basically everything I do won't be finished or rushed towards the end. I'm actively trying to lose that tho.
+On my freetime I like to listen to music. Can't really call myself an audiophile because that just sounds strange to me. I'm into rock and heavy metal classics, despite listening to a lot of other stuff.
 <!--
 I'll add this section on my personal site sometime in the future
 #### Bands 
