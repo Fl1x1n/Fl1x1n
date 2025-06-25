@@ -1,7 +1,7 @@
 # **Fl1x1n/Fl1x1n**
 ### Introduction
 
-Hi! I'm an IT student currently finishing my course. I don't really focus on only one thing, as my profile will probably be full of distinct projects (most of them will probably be unfinished). Right now I'm working on a small mobile meteorology app for android, made with jetpack compose in collaboration with [Redux](https://github.com/ReduxFlakes) (he basically made the entire [API](https://open-meteo.com/) service and view model. Thanks mate).
+Hi! I'm an IT student currently finishing my course. I don't really focus on only one thing, as my profile will probably be full of distinct projects (most of them will probably be unfinished). Right now I'm working on a small mobile meteorology app for android, made with jetpack compose in collaboration with [Redux](https://github.com/ReduxFlakes) (he basically made the entire [API](https://open-meteo.com/) service and view model. (Thanks mate).
 My UI Designs are a 50/50, either half terrible or completely terrible.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fl1x1n&show_icons=true&theme=ocean_dark)](https://github.com/Fl1x1n)
@@ -13,18 +13,16 @@ My UI Designs are a 50/50, either half terrible or completely terrible.
 - Personal Website (work in progress).
 
 ### Learning
-- Driving License
-- Photography
+- Jetpack Compose & Kotlin
 - UI/UX design
-- self-taught guitarist (despite being terrible at it). 
+- HTML, CSS and JS
 
 
 ### Contact
-You can check out my personal Instagram profile. Not really professional since this is more of a personal account (both github and the instagram). 
+For now, there's no way of contacting me effectevely. This is changing in the near future, so stay tuned for future updates 
 
 ### Other Things
-I'm reallly lazy so basically everything I do won't be finished or rushed towards the end. I'm actively trying to lose that tho.
-On my freetime I like to listen to music. Can't really call myself an audiophile because that just sounds strange to me. I'm into rock and heavy metal classics, despite listening to a lot of other stuff.
+This page will probably go through a Hiatus around the second half of July, without a specific come back date. My studies are ending around that time, and with that my only functional PC will have to be returned, leaving me without a computer. It's a future investment, but it might take some time until I bring any uptades to my projects.
 <!--
 I'll add this section on my personal site sometime in the future
 #### Bands 
